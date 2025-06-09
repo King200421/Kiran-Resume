@@ -576,7 +576,7 @@ Resume
             <p>Email: vsvkr21@gmail.com | Phone: 9409984415</p>
         </div>
     </footer>
-
+https://docs.google.com/document/d/1FD9rwZhfVV7Veyy9xPZdTFkNl4X1ONRP/edit?usp=drivesdk&ouid=115227291984249374542&rtpof=true&sd=true
     <script>
         // Mobile menu toggle
         const hamburger = document.querySelector('.hamburger');
